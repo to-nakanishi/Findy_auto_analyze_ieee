@@ -216,7 +216,6 @@ test.to_parquet('test_merged.parquet')
 今回は初期の処理により削減なし。
 
 """
-
 '''
 後続処理
 ①下処理前EDA
